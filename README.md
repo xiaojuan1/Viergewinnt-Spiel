@@ -19,3 +19,6 @@ The computer then makes its move automatically.
 
 The game continues until either the player or the computer connects four pieces in a row, or the board is full (draw).
 
+
+latest: I have already uploaded the .exe file, and it can be run directly!
+
